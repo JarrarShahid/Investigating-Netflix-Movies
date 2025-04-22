@@ -105,7 +105,7 @@ The analysis notebook (`notebook.ipynb`) follows these steps:
 
 ## 🧑‍💻 Author
 
-Built by a Software Engineer who enjoys creating useful tools that help people make better everyday decisions.
+[Jarrar Shahid](https://github.com/JarrarShahid)
 
 ---
 
